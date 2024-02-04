@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Zubaida20.io)
-<h1 align="center">Hi 👋, I'm Zubaisa Alhassan</h1>
+![logo](https://github.com/Zubaida20/Zubaida20/blob/main/LOGO.png)
+<h1 align="center">Hi 👋, I'm Zubaida Alhassan</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
