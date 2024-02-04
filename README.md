@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![logo](https://github.com/Zubaida20/Zubaida20/blob/main/LOGO.png)
 <h1 align="center">Hi 👋, I'm Zubaida Alhassan</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">Ambitious individual with a passion for learning and creativity. Strong interest in developing skills in the areas of ,Game development, software development, data analysis, cybersecurity, cloud computing, or any other relevant field. Proven track record of success with excellent communication and organizational skills.
+</h3></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubaida20&label=Profile%20views&color=0e75b6&style=flat" alt="zubaida20" /> </p>
